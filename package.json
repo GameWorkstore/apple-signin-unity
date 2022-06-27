@@ -5,9 +5,9 @@
     "unity": "2018.3",
     "description": "Provides a Unity bridge to use the native Sign In With Apple method on iOS/iPadOS/tvOS/macOS devices",
     "author": {
-        "name": "Daniel Lupiañez Casares",
-        "email": "daniel.lupianez.casares@gmail.com",
-        "url": "https://github.com/lupidan"
+        "name": "Game Workstore",
+        "email": "contact@gameworkstore.com",
+        "url": "https://github.com/GameWorkstore/apple-signin-unity"
     },
     "keywords": [
         "apple",
